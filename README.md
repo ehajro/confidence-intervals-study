@@ -1,6 +1,6 @@
 ## How to run
-I have included an R Script that only contains the code and a markdown file where the code, the project write-up, and the output can be seen. I recommend running these files in the latest version of RStudio.
-For the markdown file, you will have to knit the file to HTML or pdf.
+In order to see the full code with the project write-up, comments, and outputs, I recommend looking at the Simulation-study---confidence-intervals.md file here.
+I have also included an R Script that only contains the code with comments but without the write-up. I recommend running these files in the latest version of RStudio.
 
 ## Overview
 This is a project that aims to examine how the correlation of observations affects the empirical coverage probability of normal-based CIs for random observations based on samples of size n=100 drawn from a normal population using a time series (autoregressive) model.
