@@ -1,5 +1,6 @@
 ## How to run
-In order to see the full code with the project write-up, comments, and outputs, I recommend looking at the Simulation-study---confidence-intervals.md file here.
+**In order to see the full code with the project write-up, comments, and outputs, I recommend looking at the Simulation-study---confidence-intervals.md file here.**
+
 I have also included an R Script that only contains the code with comments but without the write-up. I recommend running these files in the latest version of RStudio.
 
 ## Overview
